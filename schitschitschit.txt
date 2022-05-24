@@ -1,0 +1,107 @@
+1. aufgabe
+----------
+variable deklarieren
+anzeigen welches betriebssystem mit einer versionsnummer
+zufallszahl in variable mit name / runden können
+wert zurück in zeichenketten variable mit neuen namen
+string verkettung
+
+dann betriebssystem mit variablenwert auf console
+
+---------
+2.
+---------
+arrays
+zeichenkettenvariablen
+variablen typ string
+zweidimensionales zeichenkettenarray aus frage und antwort
+eingabe vom nutzer auf konsole entgegenehmen
+variablen deklarieren für antwort etc
+mit schleife durch elemente
+vergleichen mit array elementen
+
+------------
+3.
+-----------
+klasse mit konstanen
+geerbte methode überschreiben
+konstrucktor einbauen
+der initialwert entgegennimmt
+3 konstanten definieren
+in main werte ausgeben
+
+----------
+4.
+---------
+getter und setter und konstruckter mit tostring methode
+array erzeugen mit bestimmter anzahl an objekten speicherbar
+mit contains checken ob objekt vorhanden
+
+----------
+5
+----------
+klassendiagramm gegeben mit 2 klassen
+die eine erbt von der anderen
+klassen anlegen nur
+eine klasse ist kursiv geschrieben -> abstrackte klasse
+methode implimentieren in hauptklasse die verleicht integer attribute
+fa berechnen von rechtecken in lokale variable
+startklasse erzeugen die nur main hat und objekte erzeugen -> vergleichen von objekten miteinander
+schauen ob rechtecke quadrate sind
+
+
+-----------------------
+-----------------------
+html
+-----------------------
+1.
+----------------------
+
+ganze klausur eine website
+header,hintergrundfarbe, hohe überschrift
+formular element links und rechts tabelle
+im formular 3 felder und button-> ausgelesen und als td zur tabelle
+
+-> html grundstrucktur
+doctype definieren mit encoding utf8
+metadaten hinzufügen: beschreibung website inhalt
+
+--------------------------
+2
+----------------------------
+header, footer und tabelle
+kann auch per div
+header und foooter in body mit tabelle dazwischen die 3 spalten hat mit th
+in spalten dummy daten reinlegen
+
+zusatz kommentar in html
+
+--------------------------------
+3
+------------------------------
+formular: überschrift, texteingabefelder, emaileingabe mit beschriftung vor eingabefelder
+beschriftung mit antwort per id und button
+
+--------------------------------
+4
+--------------------------------
+alle seiteninhalte umramen mit div und dann mit float tabelle und fomrular richtig schieben
+
+dann hexadezimal grau wert für header in css
+
+--------------------------------
+5
+--------------------------------
+javascript im html dokument
+soll daten von formular auslesen und in tabelle legen function soll auf button unter formular gelegt werden
+formular elemente als variable
+dokument-get-element-zeugs
+
+4 sachen müssen erzeugt werden, tr elemente und td mit javascript
+
+textnodes für tabelleninhalt
+textnodes als kindlementen von tds
+ausgelesenes einfügen
+irgendwas mit appendchild
+td brauchen trs als kind
+tr mitt tabelle als kind
